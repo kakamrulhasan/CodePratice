@@ -6,5 +6,5 @@ void main() {
 
   //final and const
   final String langugage = 'dart'; // final will be initialized at runtime
-  const pi = 3.1415; // must be initialized at compile time
+  const pi = 3.1415; // must be initialized at compile time 
 }
